@@ -1,0 +1,15 @@
+D:\code\POO-2023\aula06\bin\Debug\net7.0\aula06.exe
+D:\code\POO-2023\aula06\bin\Debug\net7.0\aula06.deps.json
+D:\code\POO-2023\aula06\bin\Debug\net7.0\aula06.runtimeconfig.json
+D:\code\POO-2023\aula06\bin\Debug\net7.0\aula06.dll
+D:\code\POO-2023\aula06\bin\Debug\net7.0\aula06.pdb
+D:\code\POO-2023\aula06\obj\Debug\net7.0\aula06.csproj.AssemblyReference.cache
+D:\code\POO-2023\aula06\obj\Debug\net7.0\aula06.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\POO-2023\aula06\obj\Debug\net7.0\aula06.AssemblyInfoInputs.cache
+D:\code\POO-2023\aula06\obj\Debug\net7.0\aula06.AssemblyInfo.cs
+D:\code\POO-2023\aula06\obj\Debug\net7.0\aula06.csproj.CoreCompileInputs.cache
+D:\code\POO-2023\aula06\obj\Debug\net7.0\aula06.dll
+D:\code\POO-2023\aula06\obj\Debug\net7.0\refint\aula06.dll
+D:\code\POO-2023\aula06\obj\Debug\net7.0\aula06.pdb
+D:\code\POO-2023\aula06\obj\Debug\net7.0\aula06.genruntimeconfig.cache
+D:\code\POO-2023\aula06\obj\Debug\net7.0\ref\aula06.dll
